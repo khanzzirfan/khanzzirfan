@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Irfan Khan  
   
 ### Glad to see you here!  
-As a seasoned React.js developer, I bring a wealth of experience in the financial ecosystem and boast proficiency as a full-stack developer. My expertise extends from end-to-end development, encompassing architecture, design, and timely delivery. Adhering to best practices in software development, I prioritize security enhancements throughout the development lifecycle. My skill set enables me to architect solutions from scratch, ensuring optimal performance and scalability. Additionally, I possess knowledge in Web 3 development, showcasing adaptability to emerging technologies. My commitment to excellence positions me as a reliable and proficient developer capable of delivering robust, secure, and innovative solutions.  
+Senior Full Stack Developer with 12+ years of experience specializing in enterprise-level financial and insurance applications. Proven expertise in architecting and implementing scalable solutions using modern web technologies and cloud infrastructure. Distinguished track record of leading multiple development teams and delivering robust, secure applications in highly regulated environments. Expert in React.js ecosystem, AWS cloud services, and emerging technologies including AI orchestration tools.
   
 
 <br/>  
