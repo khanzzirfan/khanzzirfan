@@ -18,7 +18,7 @@ Senior Full Stack Developer with 12+ years of experience specializing in enterpr
 
 - 📄 This is [My Resume](https://khanzzirfan.github.io/resume/)
 
-- 📫 How to reach me **reacthub.ai@gmail.com**
+- 📫 How to reach me **irfan.dev08@gmail.com**
   
 
 ## 🌐 Socials:
