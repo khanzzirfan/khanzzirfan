@@ -7,6 +7,7 @@ AI Engineering Lead in Sydney. I build LLM applications, AI agents and the inter
 - Building [Clippy](https://clippy.io) solo: an agentic AI video platform on LangGraph, where you chat with a live editor and an agent builds the video on a WebGL canvas.
 
 **Open source**
+- [Meshwright](https://github.com/khanzzirfan/meshwright-glimmer-30b-lora): describe a prop in one sentence, get a low-poly, game-ready GLB. Runs locally with Ollama; 47 of 48 held-out prompts produce a valid GLB, checked automatically in headless Chromium.
 - [pixitweenjs](https://pixitweenjs.xyz): timeline-based animation library for PixiJS, powering Clippy's editor.
 
 **How I build**
